@@ -1,0 +1,1 @@
+Os scrips recebem uma string como parâmetro e gera um msgbox com a mesma.

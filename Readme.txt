@@ -1,0 +1,1 @@
+O Script 'Exec em parelo' executa todos os scripts em modo paralelo, e só finaliza qndo todos os outros scripts finalizarem a execução.
